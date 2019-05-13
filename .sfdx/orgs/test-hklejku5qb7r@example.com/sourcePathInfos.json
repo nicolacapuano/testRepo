@@ -1,0 +1,116 @@
+[
+    [
+        "/Users/ncapuano/Desktop/testProject/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ncapuano/Desktop/testProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1557761929848,
+            "changeTime": 1557761929848,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ncapuano/Desktop/testProject/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ncapuano/Desktop/testProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1557761929848,
+            "changeTime": 1557761929848,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ncapuano/Desktop/testProject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ncapuano/Desktop/testProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1557762936980,
+            "changeTime": 1557762936980,
+            "contentHash": "8d172763c2c41e10643799e3ffc7a5695d93787c"
+        }
+    ],
+    [
+        "/Users/ncapuano/Desktop/testProject/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ncapuano/Desktop/testProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1557761929848,
+            "changeTime": 1557761929848,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ncapuano/Desktop/testProject/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ncapuano/Desktop/testProject/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1557762087780,
+            "changeTime": 1557762087780,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ncapuano/Desktop/testProject",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ncapuano/Desktop/testProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1557762086022,
+            "changeTime": 1557762086022,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ncapuano/Desktop/testProject/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ncapuano/Desktop/testProject/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2631,
+            "modifiedTime": 1557762936981,
+            "changeTime": 1557762936981,
+            "contentHash": "6e3e375a85df55dab96456ac2d966e0659e5e8f9"
+        }
+    ],
+    [
+        "/Users/ncapuano/Desktop/testProject/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ncapuano/Desktop/testProject/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1557762936981,
+            "changeTime": 1557762936981,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327"
+        }
+    ]
+]
